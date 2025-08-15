@@ -43,6 +43,7 @@ leadfusion/
     "typescript": "^5.4.0"
   }
 }
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true
